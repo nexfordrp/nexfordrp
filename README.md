@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=200&section=header&text=NEXFORD%20CITY&fontSize=52&fontColor=C9A84C&fontAlignY=38&desc=Nexford%20City%20Roleplay%20%E2%80%94%20NXRP&descColor=8B9DB0&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=200&section=header&text=NEXFORD%20ROLEPLAY&fontSize=52&fontColor=C9A84C&fontAlignY=38&desc=Nexford%20Roleplay%20%E2%80%94%20NXRP&descColor=8B9DB0&descAlignY=58" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ### 🏙️ Welcome to the Official NXRP GitHub
 
-**Nexford City Roleplay** is a private whitelist FiveM RP server
+**Nexford Roleplay** is a private whitelist FiveM RP server
 built for the Indonesian community — powered by the **Qbox Framework**.
 
 *Western culture · USD currency · High-quality RP · Active government system*
@@ -37,7 +37,7 @@ built for the Indonesian community — powered by the **Qbox Framework**.
 | 🌐 **Culture** | Western — US City Style |
 | 🔒 **Type** | Private Whitelist |
 | 🇮🇩 **Community** | Indonesia |
-| 🛡️ **Anti-Cheat** | PhoenixAC |
+| 🛡️ **Anti-Cheat** | FIREAC (dev) → PhoenixAC (launch) |
 
 ---
 
@@ -47,11 +47,14 @@ built for the Indonesian community — powered by the **Qbox Framework**.
 |---|---|---|
 | [`nexfordrp`](https://github.com/nexfordrp/nexfordrp) | Profile README | 🟢 Active |
 | [`nxrp-website`](https://github.com/nexfordrp/nxrp-website) | Website resmi nexfordrp.com | 🟢 Active |
-| [`nxrp-core`](https://github.com/nexfordrp/nxrp-core) | Konfigurasi Qbox core server | 🔒 Private |
+| [`nxrp-core`](https://github.com/nexfordrp/nxrp-core) | Konfigurasi Qbox core, server.cfg, txAdmin | 🔒 Private |
 | [`nxrp-jobs`](https://github.com/nexfordrp/nxrp-jobs) | Custom job scripts (PD, EMS, dll) | 🔒 Private |
-| [`nxrp-ui`](https://github.com/nexfordrp/nxrp-ui) | Custom HUD & UI resources | 🔒 Private |
-| [`nxrp-vehicles`](https://github.com/nexfordrp/nxrp-vehicles) | Vehicle configurations & spawncodes | 🔒 Private |
-| [`nxrp-docs`](https://github.com/nexfordrp/nxrp-docs) | Internal documentation & SOP | 🔒 Private |
+| [`nxrp-ui`](https://github.com/nexfordrp/nxrp-ui) | Custom HUD, loading screen, NUI resources | 🔒 Private |
+| [`nxrp-vehicles`](https://github.com/nexfordrp/nxrp-vehicles) | Vehicle meta, spawncodes, handling config | 🔒 Private |
+| [`nxrp-database`](https://github.com/nexfordrp/nxrp-database) | SQL schema, seed data, migration scripts | 🔒 Private |
+| [`nxrp-discord-bot`](https://github.com/nexfordrp/nxrp-discord-bot) | Source code bot Discord NXRP (custom) | 🔒 Private |
+| [`nxrp-configs`](https://github.com/nexfordrp/nxrp-configs) | Config files semua resource — backup terpusat | 🔒 Private |
+| [`nxrp-docs`](https://github.com/nexfordrp/nxrp-docs) | SOP staff, rules dokumen, whitelist guide | 🔒 Private |
 
 ---
 
@@ -97,9 +100,9 @@ Governor (elected)
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-nexfordrp.com-0D1B2A?style=for-the-badge&logo=googlechrome&logoColor=C9A84C)](https://nexfordrp.com)
-[![Discord](https://img.shields.io/badge/Discord-Nexford%20City-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nxrp)
-[![TikTok](https://img.shields.io/badge/TikTok-@nxrp-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nxrp)
-[![Instagram](https://img.shields.io/badge/Instagram-@nxrp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nxrp)
+[![Discord](https://img.shields.io/badge/Discord-Nexford%20Roleplay-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nxrp)
+[![TikTok](https://img.shields.io/badge/TikTok-@nexfordrp-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nexfordrp)
+[![Instagram](https://img.shields.io/badge/Instagram-@nexfordrp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nexfordrp)
 
 </div>
 
@@ -109,7 +112,7 @@ Governor (elected)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=100&section=footer&fontColor=C9A84C" />
 
-*© 2026 NXRP — Nexford City Roleplay. All rights reserved.*
+*© 2026 NXRP — Nexford Roleplay. All rights reserved.*
 *Internal repositories are private — access by NXRP team only.*
 
 </div>
