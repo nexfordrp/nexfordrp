@@ -35,7 +35,7 @@ built for the Indonesian community — powered by the **Qbox Framework**.
 | 🎯 **Framework** | Qbox + Overextended Stack |
 | 💵 **Currency** | USD ($) |
 | 🌐 **Culture** | Western — US City Style |
-| 🔒 **Type** | Private Whitelist |
+| 🔓 **Type** | Open Server |
 | 🇮🇩 **Community** | Indonesia |
 | 🛡️ **Anti-Cheat** | FIREAC (dev) → PhoenixAC (launch) |
 
